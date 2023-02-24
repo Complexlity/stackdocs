@@ -2,7 +2,7 @@
   "label": "Geospatial Data Visualization with Python",
   "position": 9,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "geospatial-data-visualization-with-python/index"
   }
 }
