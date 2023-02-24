@@ -2,7 +2,7 @@
   "label": "Basic DevOps with Docker",
   "position": 10,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "basic-devops-with-docker/index"
   }
 }
