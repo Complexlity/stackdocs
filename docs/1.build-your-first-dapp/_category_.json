@@ -1,8 +1,8 @@
 {
-  "label": "Build Your First Dapp ",
+  "label": "Build Your First Dapp",
   "position": 2,
   "link": {
     "type": "doc",
-    "docId": "build-your-first-dapp/index"
+    "id": "build-your-first-dapp/index"
   }
 }
