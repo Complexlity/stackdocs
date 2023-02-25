@@ -1,0 +1,10 @@
+import QuestButton from "../QuestButton.js";
+
+_Summary Goes Here_
+
+:::tip
+
+<QuestButton text="Quest" />
+
+:::
+
