@@ -2,7 +2,7 @@
   "label": "Campaign 2: Python - Beyond the Basics",
   "position": 44,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "campaign-2-python-beyond-the-basics/index"
   }
 }
