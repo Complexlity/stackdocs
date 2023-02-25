@@ -2,7 +2,7 @@
   "label": "Solidity Twitter Project",
   "position": 19,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "solidity-twitter-project/index"
   }
 }
