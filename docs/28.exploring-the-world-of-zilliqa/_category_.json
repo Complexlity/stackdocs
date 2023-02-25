@@ -2,7 +2,7 @@
   "label": "Exploring the World of Zilliqa",
   "position": 27,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "exploring-the-world-of-zilliqa/index"
   }
 }
