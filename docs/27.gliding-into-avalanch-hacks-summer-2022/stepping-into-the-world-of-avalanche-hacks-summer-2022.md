@@ -8,8 +8,6 @@ _Summary Goes Here_
 
 :::tip Happy Learning!!
 
-<QuestButton text="Go To Quest" />
+<QuestButton text="Go To Quest" link="https://app.stackup.dev/quest_page/stepping-into-the-world-of-avalanche-hacks-%7C-summer-2022" />
 
 :::
-
-

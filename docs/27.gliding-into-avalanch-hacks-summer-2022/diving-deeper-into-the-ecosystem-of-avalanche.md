@@ -8,8 +8,6 @@ _Summary Goes Here_
 
 :::tip Happy Learning!!
 
-<QuestButton text="Go To Quest" />
+<QuestButton text="Go To Quest" link="https://app.stackup.dev/quest_page/diving-deeper-into-the-ecosystem-of-avalanche" />
 
 :::
-
-
