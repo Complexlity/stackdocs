@@ -1,4 +1,4 @@
-.button {
+.quest-button {
   display: flex;
   align-items: center;
   font-family: inherit;
@@ -13,20 +13,20 @@
   border-radius: 16px;
 }
 
-.button svg {
+.quest-button svg {
   margin-right: 3px;
   transform: rotate(30deg);
   transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1);
 }
 
-.button span {
+.quest-button span {
   transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1);
 }
 
-.button:hover svg {
+.quest-button:hover svg {
   transform: translateX(5px) rotate(90deg);
 }
 
-.button:hover span {
+.quest-button:hover span {
   transform: translateX(7px);
 }
