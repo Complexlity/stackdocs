@@ -2,7 +2,7 @@
   "label": "Python for Data Science 101",
   "position": 41,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "python-for-data-science-101/index"
   }
 }
