@@ -1,8 +1,8 @@
 {
-  "label": "CSS Basics for Web Dev",
+  "label": "Javascript Basics for Web Dev",
   "position": 39,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "javascript-basics-for-web-dev/index"
   }
 }
