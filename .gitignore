@@ -18,3 +18,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+## Unused Files
+docs/todo.txt
+docs/write.sh
+docs/write2.sh
