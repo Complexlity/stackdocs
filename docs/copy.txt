@@ -1,0 +1,2 @@
+import Buttons from "./Button.js";
+<Buttons />
