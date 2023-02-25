@@ -1,8 +1,8 @@
 {
-  "label": "Pandas in Python",
-  "position": 37,
+  "label": "CSS Basics for Web Dev",
+  "position": 39,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "css-basics-for-web-dev/index"
   }
 }
