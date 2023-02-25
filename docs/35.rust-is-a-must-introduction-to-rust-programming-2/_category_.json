@@ -2,7 +2,7 @@
   "label": "Rust is a Must! Introduction to Rust Programming [Re-Run]",
   "position": 36,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "rust-is-a-must-introduction-to-rust-programming-2/index"
   }
 }
