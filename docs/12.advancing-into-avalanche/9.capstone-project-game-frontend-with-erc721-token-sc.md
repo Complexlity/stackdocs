@@ -19,5 +19,13 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 - Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
 - Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
 - Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+import QuestButton from "../QuestButton.js";
+
+_Summary Goes Here_
+
+:::tip Off You Go!
+
+<QuestButton text="Quest" />
+
+:::
+

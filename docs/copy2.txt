@@ -2,7 +2,7 @@ import QuestButton from "../QuestButton.js";
 
 _Summary Goes Here_
 
-:::tip
+:::tip Off You Go!
 
 <QuestButton text="Quest" />
 
