@@ -8,8 +8,6 @@ _Summary Goes Here_
 
 :::tip Happy Learning!!
 
-<QuestButton text="Go To Quest" />
+<QuestButton text="Go To Quest" link="https://app.stackup.dev/quest_page/the-command-line-for-unix-based-systems-[re-run]" />
 
 :::
-
-
