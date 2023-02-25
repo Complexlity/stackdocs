@@ -2,7 +2,7 @@
   "label": "Jumping into the ZEPETO WORLD JAM",
   "position": 12,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "jumping-into-to-zepeto-world-jam/index"
   }
 }
