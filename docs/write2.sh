@@ -1,9 +1,9 @@
 copyText='
 _Summary Goes Here_
 
-:::tip Happy Questing!
+:::tip Happy Learning!!
 
-<QuestButton text="Go To Quest" link='' />
+<QuestButton text="Go To Quest" />
 
 :::
 

@@ -6,9 +6,10 @@ sidebar_position: 3
 
 _Summary Goes Here_
 
-:::tip Off You Go!
+:::tip Happy Learning!!
 
-<QuestButton text="Happy Questing" link='' />
+<QuestButton text="Go To Quest" />
 
 :::
+
 

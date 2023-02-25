@@ -6,9 +6,9 @@ import DocCardList from "@theme/DocCardList";
 
 <DocCardList />
 
-:::info SEE FULL SUMMARY
+:::info FULL SUMMARY?
 
-<QuestButton text="Got To Campaign Page" link='' />
+<QuestButton text="Go To Campaign Page" />
 
 :::
 
