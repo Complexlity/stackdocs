@@ -1,8 +1,8 @@
 {
   "label": "Blockchain and Smart Contracts [Re-run]",
-  "position": 25,
+  "position": 27,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "blockchain-and-smart-contracts-2/index"
   }
 }
