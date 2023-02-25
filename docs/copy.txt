@@ -1,13 +1,13 @@
 # Introduction
 
 import DocCardList from "@theme/DocCardList";
-import QuestButton from "../QuestButton.js";
 
 
 <DocCardList />
 
 :::info SEE FULL SUMMARY
 
-<QuestButton text="Campaign Page" />
+<QuestButton text="Got To Campaign Page" link='' />
+
 :::
 

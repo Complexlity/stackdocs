@@ -19,7 +19,7 @@ const QuestButton = ({ text, link }) => {
               fill="currentColor"
             ></path>
           </svg>
-          <span>Go To {text}</span>
+          <span>{text}</span>
         </div>
       </a>
     </>
