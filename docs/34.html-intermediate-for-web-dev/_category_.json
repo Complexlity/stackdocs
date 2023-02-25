@@ -2,7 +2,7 @@
   "label": "HTML Intermediate for Web Dev",
   "position": 35,
   "link": {
-    "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "type": "doc",
+    "id": "html-intermediate-for-web-dev/index"
   }
 }
