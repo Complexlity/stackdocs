@@ -3,13 +3,12 @@ sidebar_position: 3
 ---
 
 # Basic Databasing with MySQL and Python
-import QuestButton from "../QuestButton.js";
 
 _Summary Goes Here_
 
 :::tip Off You Go!
 
-<QuestButton text="Quest" />
+<QuestButton text="Happy Questing" link='' />
 
 :::
 
