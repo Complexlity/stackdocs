@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./button.css";
 
-const Button = ({ text, link }) => {
+const QuestButton = ({ text, link }) => {
   text = text || "Quest";
   return (
     <>
@@ -26,4 +26,4 @@ const Button = ({ text, link }) => {
   );
 };
 
-export default Button;
+export default QuestButton;
