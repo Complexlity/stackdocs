@@ -106,7 +106,7 @@ const config = {
         //... other Algolia params
       },
       navbar: {
-        title: "Stackup Docs",
+        title: "StackDocs",
         logo: {
           alt: "Rocket Logo",
           src: "img/rocket.svg",
