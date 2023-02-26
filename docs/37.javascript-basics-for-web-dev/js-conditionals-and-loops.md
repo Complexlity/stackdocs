@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # JS Conditionals and Loops
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

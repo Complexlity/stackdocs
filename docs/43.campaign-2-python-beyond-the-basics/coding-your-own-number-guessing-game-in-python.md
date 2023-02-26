@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Coding Your Own Number Guessing Game in Python
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

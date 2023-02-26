@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Practicing EDA Part 1
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

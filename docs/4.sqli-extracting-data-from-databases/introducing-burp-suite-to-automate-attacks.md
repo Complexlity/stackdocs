@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Introducing Burp Suite To Automate Attacks
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction to pandas
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

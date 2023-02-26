@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # JS Variables and Data Types
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

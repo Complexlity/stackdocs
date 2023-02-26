@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Trying Git Out [Re-Run]
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

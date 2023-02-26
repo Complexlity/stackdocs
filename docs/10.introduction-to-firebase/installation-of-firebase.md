@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Installation of Firebase
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

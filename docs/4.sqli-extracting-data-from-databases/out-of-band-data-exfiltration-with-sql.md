@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Out-of-band Data Exfiltration with SQL Injection
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

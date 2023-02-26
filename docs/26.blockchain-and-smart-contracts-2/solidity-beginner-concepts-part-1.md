@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Solidity Beginner Concepts Part 1 [Re-Run]
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

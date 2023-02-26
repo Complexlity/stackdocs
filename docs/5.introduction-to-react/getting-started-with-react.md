@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started With React
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

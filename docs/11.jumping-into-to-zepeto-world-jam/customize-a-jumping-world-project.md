@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Customize a Jumping World Project
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 

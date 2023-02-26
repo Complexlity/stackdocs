@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Reading & Writing Smart Contracts with Ethers.js
 
-_Summary Goes Here_
+_Brief Overview Goes Here_
 
 :::tip Happy Learning!!
 
