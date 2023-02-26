@@ -25,12 +25,13 @@ const FeatureList = [
     ),
   },
   {
-    title: "Powered by React",
+    title: "Search Indexing",
     Svg: require("@site/static/img/search.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Looking for any campaign or quest should be a breeze! By adding the
+        search feature, stackies will save time and effort finding them. This is
+        a feature currently still in development.
       </>
     ),
   },
