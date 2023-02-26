@@ -1,11 +1,16 @@
 import React from "react";
-import styles from "./button.css";
+import "./button.css";
 
-const QuestButton = ({ text, link }) => {
+const QuestButton = ({ text, link, newTab }) => {
   text = text || "Quest";
+  const target = newTab ? "_blank" : "";
   return (
     <>
-      <a style={{ textDecoration: "none" }} href={link || "/docs/introduction"}>
+      <a
+        style={{ textDecoration: "none" }}
+        href={link || "/docs/introduction"}
+        target={target}
+      >
         <div className="quest-button">
           <svg
             height="24"
