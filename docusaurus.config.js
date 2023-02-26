@@ -108,8 +108,8 @@ const config = {
       navbar: {
         title: "My Site",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "Rocket Logo",
+          src: "img/rocket.svg",
         },
         items: [
           {
