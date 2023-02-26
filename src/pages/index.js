@@ -29,10 +29,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <MDXContent>
-      <Layout
-        title={`Hello from ${siteConfig.title}`}
-        description="Description will go into a meta tag in <head />"
-      >
+      <Layout title={`Home`} description="Document containing links to stackup">
         <HomepageHeader />
         <main>
           <HomepageFeatures />
