@@ -31,6 +31,18 @@ const config = {
     defaultLocale: "en",
     locales: ["en"],
   },
+  plugins: [
+    [
+      "content-docs",
+      {
+        id: "tracks",
+        editCurrentVersion: true,
+        path: "tracks",
+        routeBasePath: "tracks",
+        sidebarPath: require.resolve("./sidebarTracks.js"),
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -106,7 +118,7 @@ const config = {
             position: "left",
             label: "Campaigns",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/tracks/coming-soon", label: "Tracks", position: "left" },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
