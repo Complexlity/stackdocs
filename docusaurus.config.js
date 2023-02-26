@@ -53,15 +53,9 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          editUrl: "https://github.com/Complexlity/stackdocs",
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -120,7 +114,7 @@ const config = {
           },
           { to: "/tracks/coming-soon", label: "Tracks", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/Complexlity/stackdocs",
             label: "GitHub",
             position: "right",
           },
@@ -133,8 +127,12 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Campaigns",
+                to: "/docs",
+              },
+              {
+                label: "Tracks",
+                to: "/tracks/coming-soon",
               },
             ],
           },
@@ -151,20 +149,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://twitter.com/StackUpHQ?s=20",
               },
             ],
           },
