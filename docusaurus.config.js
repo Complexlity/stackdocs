@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "StackDocs",
-  tagline: "Learn And Earn In A Click!!",
+  tagline: "Learning -> Earning By A Click!!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
