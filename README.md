@@ -23,8 +23,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,7 +63,6 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -134,15 +131,6 @@ If you have a suggestion that would make this better or you would like to improv
 Ensure to read and understand the instructions in [CONTRIBUTING.MD](/CONTRIBUTING.MD) before making any contributions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
@@ -174,10 +162,6 @@ Project Link: [@Stack Docs](https://github.com/Complexlity/stackdocs)
 [stars-url]: https://github.com/Complexlity/stackdocs/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Complexlity/stackdocs.svg?style=for-the-badge
 [issues-url]: https://github.com/Complexlity/stackdocs/issues
-[license-shield]: https://img.shields.io/github/license/Complexlity/stackdocs.svg?style=for-the-badge
-[license-url]: https://github.com/Complexlity/stackdocs/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: static/img/project-screenshot.png
 [docusaurus]: https://img.shields.io/badge/Docusaurus-2e8555?style=for-the-badge&logo=docsdotrs&logoColor=white
 [docusaurus-url]: https://nextjs.org/
