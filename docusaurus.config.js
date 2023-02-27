@@ -137,12 +137,8 @@ const config = {
             ],
           },
           {
-            title: "Community",
+            title: "StackUp Community",
             items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
               {
                 label: "Discord",
                 href: "https://bit.ly/3Qjl8Pk",
