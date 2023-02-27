@@ -154,7 +154,10 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `<div>
+            Copyright © ${new Date().getFullYear()}, Inc. Built By
+            <a href="https://complexlity-personal-portfolio.netlify.app/">Complexlity</a>.
+          </div>`,
       },
       prism: {
         theme: lightCodeTheme,
