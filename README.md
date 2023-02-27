@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/complexlity/stackdocs">
-    <img src="static/img/rocket.svg" alt="Logo" width="80" height="80">
+    <img src="static/img/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center" style="margin: 0">StackDocs</h1>

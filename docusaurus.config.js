@@ -101,7 +101,7 @@ const config = {
         title: "StackDocs",
         logo: {
           alt: "Rocket Logo",
-          src: "img/rocket.svg",
+          src: "img/logo.svg",
         },
         items: [
           {
