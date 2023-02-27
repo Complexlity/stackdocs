@@ -1,5 +1,5 @@
 {
-  "index_name": "stackup-docs",
+  "index_name": "stackdocs",
   "start_urls": ["https://stackup-docs.netlify.app"],
   "sitemap_urls": ["https://stackup-docs.netlify.app/sitemap.xml"],
   "sitemap_alternate_links": true,
