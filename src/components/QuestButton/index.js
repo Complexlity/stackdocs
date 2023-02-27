@@ -1,7 +1,7 @@
 import React from "react";
-import "./button.css";
+import "./QuestButton.css";
 
-const QuestButton = ({ text, link, newTab = true }) => {
+const QuestButton = ({ text, link, newTab = false }) => {
   text = text || "Quest";
   const target = newTab ? "_blank" : "";
   return (
