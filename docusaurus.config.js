@@ -153,7 +153,7 @@ const config = {
         ],
         copyright: `<div>
             Copyright © ${new Date().getFullYear()}, Inc. Built By
-            <a href="https://complexlity-personal-portfolio.netlify.app/">Complexlity</a>.
+            <a target="_blank" href="https://complexlity-personal-portfolio.netlify.app/">Complexlity</a>.
           </div>`,
       },
       prism: {
