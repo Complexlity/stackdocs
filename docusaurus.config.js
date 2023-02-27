@@ -108,7 +108,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "introduction",
+            docId: "welcome",
             position: "left",
             label: "Campaigns",
           },

@@ -8,7 +8,7 @@ const QuestButton = ({ text, link, newTab = true }) => {
     <>
       <a
         style={{ textDecoration: "none" }}
-        href={link || "/docs/introduction"}
+        href={link || "/docs"}
         target={target}
       >
         <div className="quest-button">
