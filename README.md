@@ -85,7 +85,7 @@ StackDocs is a web application that provides stackies links to all (past and pre
 
 This project was put together using the following
 
-- [![Docusaurus][docusaurus]][next-url]
+- [![Docusaurus][docusaurus]]docusaurus-url]
 - [![React][react.js]][react-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -180,6 +180,6 @@ Project Link: [@Stack Docs](https://github.com/Complexlity/stackdocs)
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: static/img/project-screenshot.png
 [docusaurus]: https://img.shields.io/badge/Docusaurus-2e8555?style=for-the-badge&logo=docsdotrs&logoColor=white
-[next-url]: https://nextjs.org/
+[docusaurus-url]: https://nextjs.org/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
