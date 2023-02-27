@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "StackDocs",
-  tagline: "Learning -> Earning By A Click!!",
+  tagline: "Linking You To All StackUp Campaigns!!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -64,7 +64,10 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
-
+      announcementBar: {
+        id: "announcementBar-2",
+        content: `⭐️ If you like StackDocs, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/Complexlity/stackdocs">GitHub</a>`,
+      },
       algolia: {
         // The application ID provided by Algolia
         appId: "WMWG4KXEJN",
