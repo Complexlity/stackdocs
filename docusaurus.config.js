@@ -1,8 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/dracula");
-const darkCodeTheme = require("prism-react-renderer/themes/nightOwl");
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -72,7 +72,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: "fdff565a4ca0bc7f7a30e8cb099198fa",
 
-        indexName: "stackup-docs",
+        indexName: "stackdocs",
 
         // Optional: see doc section below
         contextualSearch: true,
