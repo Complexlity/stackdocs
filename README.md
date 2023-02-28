@@ -131,7 +131,7 @@ If you have a suggestion that would make this better or you would like to improv
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Ensure to read and understand the instructions in [CONTRIBUTING.MD](/CONTRIBUTING.MD) before making any contributions.
+Ensure to read and understand the instructions in [CONTRIBUTING.MD](/CONTRIBUTING.md) before making any contributions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
