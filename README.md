@@ -108,10 +108,13 @@ You need to have the following [Nodejs and npm](https://docs.npmjs.com/downloadi
    npm install
    ```
 3. Start the program
-`sh
-    npm start
-    `
+
+```sh
+  npm start
+```
+
 After the process completes, open [localhost](http://localhost:3000) in your browser
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
