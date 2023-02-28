@@ -19,4 +19,4 @@ import DocCardList from "@theme/DocCardList";
 
 
 # Script that runs
-for dir in ./*/; do echo "$copyText" > "$dir/index.mdx"; done
+for dir in docs/*/; do echo "$copyText" > "$dir/index.mdx"; done

@@ -14,7 +14,7 @@ _Brief Overview Goes Here_
 '
 
 # Script that executes the command. 
-for file in ./**/*.md; do head -n 5 "$file" > "$file.tmp" && mv "$file.tmp" "$file" &&  echo "$copyText" >> "$file"; done
+for file in docs/**/*.md; do head -n 5 "$file" > "$file.tmp" && mv "$file.tmp" "$file" &&  echo "$copyText" >> "$file"; done
 
 #Note: Copying starts from line 5 (which is below the header). 
 #This could be modified to a higher number if in future you want to add a generic text to all quest files

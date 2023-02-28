@@ -1,6 +1,6 @@
 # What Scripts ?
 
-This folder contains scripts which was used in automatically making changes accross all quest files and `index.mdx` files.
+This folder contains scripts which was used in automatically making changes across all quest and campaign(`index.mdx`) files.
 
 # Requirements
 
@@ -9,13 +9,11 @@ This folder contains scripts which was used in automatically making changes accr
 
 # How To Use
 
-1. Copy the particular script into `/docs` folder
-2. Run `cd docs` (enters the folder on the terminal)
-3. Run `bash <script-name>`
+In the root of the project folder, run `bash scripts/<script-name>`
 
 e.g
 
 ```
-// /docs
-bash updatePosition.sh
+// root folder
+bash scripts/updatePosition.sh
 ```
