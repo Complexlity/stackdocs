@@ -95,7 +95,7 @@ Follow the steps below to setup this project locally
 
 ### Prerequisites
 
-You need to have the following [Nodejs and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)installed on your machine
+You need to have the following [Nodejs and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your machine
 
 ### Setup
 
