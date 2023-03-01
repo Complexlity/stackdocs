@@ -26,7 +26,6 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <MDXContent>
       <Layout title={`Home`} description="Document containing links to stackup">
