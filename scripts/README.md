@@ -1,6 +1,6 @@
 # What Scripts ?
 
-This folder contains scripts which was used in automatically making changes across all quest and campaign(`index.mdx`) files.
+This folder contains scripts which was used in automatically making changes across all quest and campaign (`index.mdx`) files.
 
 # Requirements
 
