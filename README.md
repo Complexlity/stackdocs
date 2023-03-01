@@ -121,7 +121,7 @@ Project Link: [@Stack Docs](https://github.com/Complexlity/stackdocs)
 
 ## Acknowledgments
 
-- [Build A Documentation faster by Meta](https://docusaurus.io)
+- [Build Better Documentation](https://docusaurus.io)
 - [Generate Project README ](https://github.com/othneildrew/Best-README-Template)
 - [Img Shields](https://shields.io)
 
