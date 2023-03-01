@@ -60,8 +60,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/meta-image.png",
       announcementBar: {
         id: "announcementBar-2",
         content: `⭐️ If you like StackDocs, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/Complexlity/stackdocs">GitHub</a>`,
