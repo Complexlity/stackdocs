@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # Creating a Stackup Smart Contract
 
-_Brief Overview Goes Here_
 Learn how to write smart contracts!!
 :::tip Happy Learning!!
 
