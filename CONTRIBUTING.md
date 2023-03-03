@@ -17,7 +17,15 @@ Optionally, you could navigate to the [docs](/docs/) folder and find the folder 
 
 # How To Create A New Campaign Or Quest On The Docs
 
-For now, I will be adding all new campaigns and quest but I intend to provide a well detailed guide so anyone would be able do the same with ease
+In the root folder of the project, run this simple
+
+```
+python3 <campaign-name> <quest one name> <quest two name> .....
+```
+
+You can use as many arguments as the number of quest for the particular campaign
+Then , go into the newly created folder and update the links
+Refer to the [scripts README](/scripts/README.md) for me detailed guide
 
 <!--Issues URL-->
 
