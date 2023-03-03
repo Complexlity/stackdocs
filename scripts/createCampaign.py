@@ -49,12 +49,23 @@ with open("index.mdx", "w") as f:
     f.write('/>\n\n')
     f.write(":::\n")
 
-# Create the three .md files
-for i in range(3):
-    file_name = f"{sys.argv[i+2].lower().replace(' ', '-')}.md"
+# # Create the three .md files
+# for i in range(3):
+#     file_name = f"{sys.argv[i+2].lower().replace(' ', '-')}.md"
+#     with open(file_name, "w") as f:
+#         f.write(f"---\nsidebar_position: {i+1}\n---\n\n")
+#         f.write(f"# {sys.argv[i+2]}\n\n")
+#         f.write("_Brief Overview Goes Here_\n\n")
+#         f.write(":::tip Happy Learning!!\n\n")
+#         f.write('<QuestButton text="Go To Quest" link="" />\n\n')
+#         f.write(":::\n")
+
+# Create the .md files
+for i in range(2, len(sys.argv)):
+    file_name = f"{sys.argv[i].lower().replace(' ', '-')}.md"
     with open(file_name, "w") as f:
-        f.write(f"---\nsidebar_position: {i+1}\n---\n\n")
-        f.write(f"# {sys.argv[i+2]}\n\n")
+        f.write(f"---\nsidebar_position: {i-1}\n---\n\n")
+        f.write(f"# {sys.argv[i]}\n\n")
         f.write("_Brief Overview Goes Here_\n\n")
         f.write(":::tip Happy Learning!!\n\n")
         f.write('<QuestButton text="Go To Quest" link="" />\n\n')
