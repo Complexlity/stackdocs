@@ -1,6 +1,6 @@
 {
   "label": "SQLi: Extracting Data from Databases",
-  "position": 5,
+  "position": 6,
   "link": {
     "type": "doc",
     "id": "sqli-extracting-data-from-databases/index"
