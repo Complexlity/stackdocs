@@ -62,8 +62,8 @@ StackDocs is a web application that provides stackies links to all (past and pre
 
 This project was put together using the following
 
-- [![Docusaurus][docusaurus]][docusaurus-url]
 - [![React][react.js]][react-url]
+- [![Docusaurus][docusaurus]][docusaurus-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +73,10 @@ Follow the steps below to setup this project locally
 
 ### Prerequisites
 
-You need to have the following [Nodejs and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your machine
+You need to have the following installed on your machine
+
+- [Nodejs and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [git](https://git-scm.com/downloads)
 
 ### Setup
 
