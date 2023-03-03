@@ -46,7 +46,7 @@ with open("index.mdx", "w") as f:
     f.write(":::info FULL OVERVIEW ?\n\n")
     f.write('<QuestButton\n')
     f.write('  text="Go To Campaign Page"\n')
-    f.write(f'  link="/docs/{campaign_folder_name}/"\n')
+    f.write(f'  link=""')
     f.write('/>\n\n')
     f.write(":::\n")
 
