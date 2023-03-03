@@ -53,3 +53,5 @@ python3 scripts/createCampain.py "<campaing name>" "<quest one name>" "<quest tw
 ```
 
 This can take a many arguments as you pass. So run it according to how many quest are under the new campaign.
+
+**IMPORTANT**: Ensure to review the created campaign folder and quest (.md) files. Files having the same name as the folders would cause errors so refactor the file name by adding `-1` to it
