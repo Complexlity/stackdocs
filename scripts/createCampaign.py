@@ -22,8 +22,9 @@ campaign_name = sys.argv[1]
 campaign_folder_name = "-".join(campaign_name.lower().split())
 
 # Create the directory and change to it
-os.makedirs(os.path.join("docs", campaign_folder_name))
-os.chdir(os.path.join("docs", campaign_folder_name))
+campaign_folder_path = os.path.join("docs", campaign_folder_name)
+os.makedirs(campaign_folder_path)
+os.chdir(campaign_folder_path)
 
 # Create the _category_.json file for the new campaign folder
 category = {
