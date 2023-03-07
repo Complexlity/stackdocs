@@ -1,10 +1,4 @@
 <a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -133,16 +127,10 @@ Project Link: [@Stack Docs](https://github.com/Complexlity/stackdocs)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Complexlity/stackdocs.svg?style=for-the-badge
-[contributors-url]: https://github.com/Complexlity/stackdocs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Complexlity/stackdocs.svg?style=for-the-badge
-[forks-url]: https://github.com/Complexlity/stackdocs/network/members
-[stars-shield]: https://img.shields.io/github/stars/Complexlity/stackdocs.svg?style=for-the-badge
-[stars-url]: https://github.com/Complexlity/stackdocs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Complexlity/stackdocs.svg?style=for-the-badge
-[issues-url]: https://github.com/Complexlity/stackdocs/issues
+
 [product-screenshot]: static/img/project-screenshot.png
 [docusaurus]: https://img.shields.io/badge/Docusaurus-2e8555?style=for-the-badge&logo=docsdotrs&logoColor=white
 [docusaurus-url]: https://docusaurus.io/
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
+
