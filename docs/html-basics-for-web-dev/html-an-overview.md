@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # HTML: An Overview
 
-_Brief Overview Goes Here_
+In this quest, you learn about **HTML**, which stands for **HyperText Markup Language**, and is the backbone of all websites. You also learn about the structure and syntax of HTML, including the various components of **HTML elements** and the typical structure of an HTML page. Additionally, you learn about the **HTML boilerplate** and how to create your own HTML page using different methods such as **CodePen, IDE, and plain text editor**. Finally, you create your own HTML page and take a **screenshot** of it for submission.
 
 :::tip Happy Learning!!
 
