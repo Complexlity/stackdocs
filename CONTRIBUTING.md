@@ -20,12 +20,12 @@ Optionally, you could navigate to the [docs](/docs/) folder and find the folder 
 In the root folder of the project, run this simple
 
 ```
-python3 <campaign-name> <quest one name> <quest two name> .....
+python3 createCampaign.py <campaign-name> <quest one name> <quest two name> .....
 ```
 
 You can use as many arguments as the number of quest for the particular campaign
 Then , go into the newly created folder and update the links
-Refer to the [scripts README](/scripts/README.md) for me detailed guide
+Refer to the [scripts README](/scripts/README.md) for the detailed guide
 
 <!--Issues URL-->
 
