@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- PROJECT LOGO -->
 <br />
@@ -150,6 +150,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Complexlity"><img src="https://avatars.githubusercontent.com/u/105590967?v=4?s=100" width="100px;" alt="Complexlity"/><br /><sub><b>Complexlity</b></sub></a><br /><a href="https://github.com/Complexlity/stackdocs/commits?author=Complexlity" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AugustHottie"><img src="https://avatars.githubusercontent.com/u/96122635?v=4?s=100" width="100px;" alt="AugustHottie"/><br /><sub><b>AugustHottie</b></sub></a><br /><a href="https://github.com/Complexlity/stackdocs/commits?author=AugustHottie" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/raghavan21"><img src="https://avatars.githubusercontent.com/u/66511693?v=4?s=100" width="100px;" alt="Raghavan"/><br /><sub><b>Raghavan</b></sub></a><br /><a href="https://github.com/Complexlity/stackdocs/commits?author=raghavan21" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
