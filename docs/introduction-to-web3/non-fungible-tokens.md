@@ -4,7 +4,8 @@ sidebar_position: 2
 
 # Non-Fungible Tokens
 
-_Brief Overview Goes Here_
+## Quest Overview
+In this quest, we'll learn about non-fungible tokens and Ethereum's various token specifications. Following that, we will explore the OpenSea NFT marketplace to purchase and trade NFTs.
 
 :::tip Happy Learning!!
 
