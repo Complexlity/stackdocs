@@ -4,7 +4,8 @@ sidebar_position: 3
 
 # Decentralized Autonomous Organization
 
-_Brief Overview Goes Here_
+## Quest Overview
+We'll be learning about Decentralized Autonomous Organizations (DAO) in this quest and how they function on the blockchain. After that, we will vote on a proposal on the Snapshot platform.
 
 :::tip Happy Learning!!
 
