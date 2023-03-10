@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # Getting Started with React Native
 
-_Brief Overview Goes Here_
+In this quest, you'll learn how to bootstrap a React Native project using expo cli
 
 :::tip Happy Learning!!
 
-<QuestButton text="Go To Quest" link="" />
+<QuestButton text="Go To Quest" link="https://app.stackup.dev/quest_page/getting-started-with-react-native" />
 
 :::

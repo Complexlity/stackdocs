@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Login Application with React Native
 
-_Brief Overview Goes Here_
+In this project, we would create a simple login page with a header and run the demo on a mobile device with expo Go
 
 :::tip Happy Learning!!
 
