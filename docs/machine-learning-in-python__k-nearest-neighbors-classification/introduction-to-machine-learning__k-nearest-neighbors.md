@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction to Machine Learning: k-Nearest Neighbors
 
-_Brief Overview Goes Here_
+In this quest, you'll learn the basics of kNN from a series of video tutorials
 
 :::tip Happy Learning!!
 
