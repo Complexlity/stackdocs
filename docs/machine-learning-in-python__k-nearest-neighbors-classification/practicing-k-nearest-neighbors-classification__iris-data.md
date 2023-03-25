@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Practicing k-Nearest Neighbors Classification: Iris Data
 
-_Brief Overview Goes Here_
+In this quest, we would analyse the iris classification flowers
 
 :::tip Happy Learning!!
 
