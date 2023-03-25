@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Creating a Data DAO BRACKETFront EndBRACKET
+# Creating a Data DAO (Front End)
 
 _Brief Overview Goes Here_
 
