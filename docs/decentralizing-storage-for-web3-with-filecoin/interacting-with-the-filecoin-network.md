@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Minting an NFT using NFT.Storage
+# Interacting with the Filecoin Network: APIs and Lotus
 
 _Brief Overview Goes Here_
 

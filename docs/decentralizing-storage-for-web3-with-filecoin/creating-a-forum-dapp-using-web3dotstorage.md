@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Creating a Forum dApp using web3DOTstorage
+# Creating a Forum dApp using web3.storage
 
 _Brief Overview Goes Here_
 
