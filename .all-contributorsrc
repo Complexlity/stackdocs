@@ -6,6 +6,7 @@
   "files": [
     "README.md"
   ],
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/StackDocs-Thanks%20for%20contributing!!-green/github/all-contributors/Complexlity/stackdocs?color=green&style=plastic&logo=appveyor)](#contributors)",
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
