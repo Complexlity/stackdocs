@@ -7,7 +7,7 @@ def format_input_string(input_string):
     # Replace all & with and
     input_string = input_string.replace('&', 'and')
     # Replace all special characters with " " and trim consecutive spaces to a single space
-    # input_string = re.sub(r'[^\w\s:;]+', ' ', input_string).strip()
+    
     input_string = re.sub(r'[^\w\s]|_', ' ', input_string)
     # Convert everything to lower case
     input_string = input_string.lower()
@@ -37,7 +37,7 @@ campaign_name_formatted = format_input_string(campaign_name)
 print(campaign_name_formatted)
 # Create the folder name from the full name of the campaign
 campaign_folder_name = "-".join(campaign_name_formatted.lower().split())
-print(campaign_folder_name)
+
 
 # Create the directory and change to it
 campaign_folder_path = os.path.join("docs", campaign_folder_name)
