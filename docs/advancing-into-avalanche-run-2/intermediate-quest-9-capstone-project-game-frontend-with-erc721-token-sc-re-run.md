@@ -1,0 +1,13 @@
+---
+sidebar_position: 9
+---
+
+# (Intermediate) Quest 9: Capstone Project - Game Frontend with ERC721 Token SC (Re-Run)
+
+_Brief Overview Goes Here_
+
+:::tip Happy Learning!!
+
+<QuestButton text="Go To Quest" link="" />
+
+:::
