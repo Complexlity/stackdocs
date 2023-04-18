@@ -16,7 +16,7 @@ These are those ending with `.sh`
 In the root of the project folder, run `bash scripts/<script-name>`
 
 e.g
-IMPORTANT: All bash scripts have been archived and their functions transfered to `createCampaign.py` script
+IMPORTANT: All bash scripts have either fullfilled their work or  their functions transfered to `createCampaign.py` script
 
 ```
 // root folder
