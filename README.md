@@ -37,7 +37,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#pre-requisites">Pre-requisites</a></li>
         <li><a href="#setup">Setup</a></li>
       </ul>
     </li>
@@ -68,7 +68,7 @@ This project was put together using the following
 
 Follow the steps below to setup this project locally
 
-### Prerequisites
+### Pre-requisites
 
 You need to have the following installed on your machine
 
