@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # (Beginner) Quest 3 - Hedera Developer Fundamentals
 
-_Brief Overview Goes Here_
+In this quest, you will learn about the SDKs available on Hedera and how to use the Hedera Hashgraph SDK to create an account and transfer HBAR between accounts programmatically
 
 :::tip Happy Learning!!
 

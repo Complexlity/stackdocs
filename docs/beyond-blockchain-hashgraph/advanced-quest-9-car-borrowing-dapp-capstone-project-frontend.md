@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # (Advanced) Quest 9 - Car Borrowing DApp Capstone Project (Frontend)
 
-_Brief Overview Goes Here_
+In this quest, we’ll be building a frontend application using React and Ethers.js to interact with the smart contracts we deployed in Quest 8. We’ll also connect the MetaMask wallet and learn to submit messages, associate tokens to accounts, approve token transfers, and query information using Mirror Node APIs
 
 :::tip Happy Learning!!
 

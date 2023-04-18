@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # (Intermediate) Quest 5 - Hedera Token Service
 
-_Brief Overview Goes Here_
+In this quest, you'll learn about the Hedera Token Service and how to create and transfer fungible tokens and NFTs. You'll also learn about decentralized storage and the InterPlanetary File System (IPFS), and how it relates to NFT images and metadata
 
 :::tip Happy Learning!!
 

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # (Beginner) Quest 2 - Learning Core Concepts & Exploring The Hedera Ecosystem
 
-_Brief Overview Goes Here_
+This quest covers core concepts in Hedera such as nodes, transactions, accounts, and keys. We'll also explore common dApps on the Hedera network, create a Hedera Developer Portal account, and set up a Hedera wallet. By the end of the quest, you'll be able to transfer HBAR tokens using HashPack wallet and describe the difference between state and history
 
 :::tip Happy Learning!!
 

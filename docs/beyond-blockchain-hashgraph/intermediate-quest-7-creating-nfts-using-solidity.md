@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # (Intermediate) Quest 7 - Creating NFTs Using Solidity
 
-_Brief Overview Goes Here_
+This quest focuses on creating and transferring NFTs using a Solidity smart contract on the Hedera network. You will learn how to deploy and store the smart contract on the network and interact with its functions to create, mint, and transfer NFTs between accounts
 
 :::tip Happy Learning!!
 
