@@ -34,7 +34,7 @@ campaign_name = sys.argv[1]
 
 # Remove special characters and replace '&' with 'and'
 campaign_name_formatted = format_input_string(campaign_name)
-print(campaign_name_formatted)
+
 # Create the folder name from the full name of the campaign
 campaign_folder_name = "-".join(campaign_name_formatted.lower().split())
 
