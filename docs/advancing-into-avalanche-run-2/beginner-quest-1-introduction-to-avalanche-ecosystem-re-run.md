@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # (Beginner) Quest 1: Introduction to Avalanche Ecosystem (Re-Run)
 
-_Brief Overview Goes Here_
+In this quest, you will learn about the key components and applications of the Avalanche ecosystem, including the Avalanche consensus model, P-Chain, X-Chain, and C-Chain, as well as the Avalanche developer community sites
 
 :::tip Happy Learning!!
 
-<QuestButton text="Go To Quest" link="" />
+<QuestButton text="Go To Quest" link="https://app.stackup.dev/quest_page/beginner-quest-1-introduction-to-avalanche-ecosystem-re-run" />
 
 :::
