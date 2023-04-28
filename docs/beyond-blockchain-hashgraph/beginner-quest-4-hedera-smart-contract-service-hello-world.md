@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # (Beginner) Quest 4 - Hedera Smart Contract Service - Hello World
 
-n this quest, we'll be learning about the Hedera Smart Contract Service and writing our first smart contract. We'll cover the Hyperledger Besu EVM and the integration of Hedera services. By the end of the quest, you'll be able to deploy a smart contract to the testnet and interact with it
+In this quest, we'll be learning about the Hedera Smart Contract Service and writing our first smart contract. We'll cover the Hyperledger Besu EVM and the integration of Hedera services. By the end of the quest, you'll be able to deploy a smart contract to the testnet and interact with it
 
 :::tip Happy Learning!!
 
