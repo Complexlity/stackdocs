@@ -4,15 +4,18 @@ import sys
 import re
 
 def format_input_string(input_string):
-    # Replace all & with and
+    # Replace all '&' with 'and'
     input_string = input_string.replace('&', 'and')
-    # Replace all special characters with " " and trim consecutive spaces to a single space
-    
+
+    # replace all special characters with " " and trim consecutive spaces to a single space
     input_string = re.sub(r'[^\w\s]|_', ' ', input_string)
+    
     # Convert everything to lower case
     input_string = input_string.lower()
+    
     # Replace all spaces with (-) excluding spaces occurring at the end or beginning of the text
     input_string = '-'.join(input_string.split())
+    
     # Return the formatted string
     return input_string
 
