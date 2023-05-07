@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started with Tailwind CSS
 
-_Brief Overview Goes Here_
+In this quest, you will learn about Tailwind CSS, its advantages over other CSS frameworks, the utility-first workflow, and how to install and set up Tailwind CSS in a project using npm
 
 :::tip Happy Learning!!
 
