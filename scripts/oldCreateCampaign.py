@@ -19,13 +19,18 @@ def format_input_string(input_string):
     # Return the formatted string
     return input_string
 
+# This updates the position property of the _category_.json files so the new campaign would be added at the top of the sidebar
+for root, dirs, files in os.walk('docs'):
+    for file in files:
+        if file == '_category_.json':
+            filepath = os.path.join(root, file)
+            with open(filepath, 'r+') as f:
+                data = json.load(f)
+                data['position'] += 1
+                f.seek(0)
+                json.dump(data, f, indent=2)
+                f.truncate()
 
-# Find the json file with the name highest_position.json and get the value of "highest" property
-with open('docs/highest_position.json', 'r') as f:
-    data = json.load(f)
-    current_highest_position = data['highest']
-
-new_highest_position = current_highest_position + 1
 
 # Get the name from the command line argument
 campaign_name = sys.argv[1]
@@ -45,7 +50,7 @@ os.chdir(campaign_folder_path)
 # Create the _category_.json file for the new campaign folder
 category = {
     "label": campaign_name,
-    "position": new_highest_position,
+    "position": 2,
     "link": {
         "type": "doc",
         "id": f"{campaign_folder_name}/index"
@@ -79,8 +84,3 @@ for i in range(2, len(sys.argv)):
         f.write(":::tip Happy Learning!!\n\n")
         f.write('<QuestButton text="Go To Quest" link="" />\n\n')
         f.write(":::\n")
-
-#Update the position.json and give the 'highest' property the value of current_highest_position
-with open('highest_position.json', 'w') as f:
-    data['highest'] = new_highest_position
-    json.dump(data, f, indent=2)
