@@ -4,6 +4,19 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
+function reverseSidebarItems(items) {
+  // Reverse items in categories
+  const result = items.map((item) => {
+    if (item.type === "category") {
+      return { ...item, items: reverseSidebarItems(item.items) };
+    }
+    return item;
+  });
+  // Reverse items at current level
+  result.reverse();
+  return result;
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "StackDocs",
@@ -46,6 +59,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          sidebarItemsGenerator: async function ({
+            defaultSidebarItemsGenerator,
+            ...args
+          }) {
+            const sidebarItems = await defaultSidebarItemsGenerator(args);
+            return reverseSidebarItems(sidebarItems);
+          },
           editUrl: "https://github.com/Complexlity/stackdocs/edit/main",
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
