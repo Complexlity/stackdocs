@@ -73,7 +73,8 @@ for i in range(2, len(sys.argv)):
     # Add ".md" to the end of the file name
     quest_file_name = input_string_formatted + '.md'
     with open(quest_file_name, "w") as f:
-        f.write(f"---\nsidebar_position: {i-1}\n---\n\n")
+        sidebar_position = len(sys.argv) - i + 1
+        f.write(f"---\nsidebar_position: {sidebar_position}\n---\n\n")
         f.write(f"# {sys.argv[i]}\n\n")
         f.write("_Brief Overview Goes Here_\n\n")
         f.write(":::tip Happy Learning!!\n\n")
