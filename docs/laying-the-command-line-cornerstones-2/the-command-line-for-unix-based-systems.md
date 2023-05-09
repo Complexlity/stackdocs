@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # The Command Line for UNIX-based Systems [Re-Run]

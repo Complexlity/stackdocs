@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 4
 ---
 
 # (Intermediate) Quest 8: Capstone Project - ERC721 Token SC (Re-Run)

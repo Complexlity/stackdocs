@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 2
 ---
 
 # (Advanced) Quest 8 - Car Borrowing DApp Capstone Project (Backend)

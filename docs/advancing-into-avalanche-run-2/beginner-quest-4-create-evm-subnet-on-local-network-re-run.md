@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 8
 ---
 
 # (Beginner) Quest 4: Create EVM Subnet on Local Network (Re-Run)

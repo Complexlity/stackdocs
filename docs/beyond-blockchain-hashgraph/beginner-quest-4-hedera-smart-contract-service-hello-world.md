@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 # (Beginner) Quest 4 - Hedera Smart Contract Service - Hello World

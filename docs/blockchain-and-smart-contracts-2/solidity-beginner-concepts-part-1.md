@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Solidity Beginner Concepts Part 1 [Re-Run]

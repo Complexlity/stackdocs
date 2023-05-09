@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 2
 ---
 
 # (Advanced) Quest 10: Capstone Project - NFT Marketplace SC (Re-Run)

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 9
 ---
 
 # (Beginner) Quest 1 - An Introduction to Hedera

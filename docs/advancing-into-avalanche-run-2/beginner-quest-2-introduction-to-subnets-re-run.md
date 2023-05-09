@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 10
 ---
 
 # (Beginner) Quest 2: Introduction to Subnets (Re-Run)

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Taking Your First Dip into the World of Avalanche Hacks | Summer 2022

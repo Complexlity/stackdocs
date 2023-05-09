@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
 
 # Blockchain, Ethereum, Smart Contracts - An Introduction [Re-Run]

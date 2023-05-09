@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Using the Command Line on Your UNIX-based System [Re-Run]
