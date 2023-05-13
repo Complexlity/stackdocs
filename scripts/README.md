@@ -13,11 +13,11 @@ These are those ending with `.sh`
 
 ## How To Use
 
-In the root of the project folder, run `bash scripts/<script-name>`
+In the root of the project folder, run `bash scripts/archive/<script-name>`
 
-e.g
 IMPORTANT: All bash scripts have either fullfilled their work or  their functions transfered to `createCampaign.py` script
 
+e.g
 ```
 // root folder
 bash scripts/updatePosition.sh
@@ -28,6 +28,8 @@ Refer to each script file to see what it is doing
 # Python Scripts
 
 This is for script(s) ending with `.py`
+
+IMPORTANT: All other scripts have either fullfilled their work or  their functions transfered to `createCampaign.py` script so they wouldn't be covered here
 
 ## Requirements
 
