@@ -29,7 +29,7 @@ Refer to each script file to see what it is doing
 
 This is for script(s) ending with `.py`
 
-IMPORTANT: All other scripts have either fullfilled their work or  their functions transfered to `createCampaign.py` script so they wouldn't be covered here
+IMPORTANT: All other scripts have either fullfilled their work or  their functions transfered to `createCampaign.py` script so they wouldn't be covered here. See the `archive` folder
 
 ## Requirements
 
