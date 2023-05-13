@@ -48,6 +48,7 @@ const config = {
         path: "tracks",
         routeBasePath: "tracks",
         sidebarPath: require.resolve("./sidebarTracks.js"),
+        sidebarCollapsed: true,
       },
     ],
   ],
