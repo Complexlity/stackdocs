@@ -82,6 +82,6 @@ for i in range(2, len(sys.argv)):
         f.write(":::\n")
 
 #Update the position.json and give the 'highest' property the value of current_highest_position
-with open('highest_position.json', 'w') as f:
+with open('../highest_position.json', 'w') as f:
     data['highest'] = new_highest_position
     json.dump(data, f, indent=2)
