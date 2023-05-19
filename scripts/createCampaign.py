@@ -85,3 +85,13 @@ for i in range(2, len(sys.argv)):
 with open('../highest_position.json', 'w') as f:
     data['highest'] = new_highest_position
     json.dump(data, f, indent=2)
+
+# Update the sidebar_position property in welcome.mdx
+with open('../welcome.mdx', 'r+') as f:
+    lines = f.readlines()
+    for i in range(len(lines)):
+        if 'sidebar_position' in lines[i]:
+                lines[i] = f'sidebar_position: {new_highest_position + 1}\n'
+    f.seek(0)
+    f.writelines(lines)
+    f.truncate()
